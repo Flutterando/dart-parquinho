@@ -1,7 +1,7 @@
 class Person {
   String? cpf;
   String? name;
-  String? lastname;
+  String? nameLast;
 
   Person();
 }
